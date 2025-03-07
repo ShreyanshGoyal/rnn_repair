@@ -1,0 +1,60 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environment folders
+venv/
+.env/
+env/
+
+# Ignore Jupyter Notebook checkpoints (if applicable)
+.ipynb_checkpoints/
+
+# Ignore logs and temp files
+*.log
+*.out
+*.err
+*.swp
+
+# Ignore compiled Cython or C extensions
+*.so
+*.o
+*.obj
+*.a
+*.dll
+*.dylib
+*.exe
+
+# Ignore environment and dependency management files
+Pipfile
+Pipfile.lock
+poetry.lock
+
+# Ignore coverage reports
+.coverage
+htmlcov/
+*.cover
+*.coverage.*
+
+# Ignore build and distribution directories
+build/
+dist/
+*.egg-info/
+*.spec
+
+# Ignore VSCode settings (if using VSCode)
+.vscode/
+
+# Ignore JetBrains (PyCharm) settings
+.idea/
+
+# Ignore any personal or sensitive config files
+*.env
+.envrc
+secrets.json
+config.ini
