@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\apps",
+    "\\apps\\RQ4",
+    "\\RNNRepair",
+    "\\RNNRepair\\use_cases",
+    "\\RNNRepair\\use_cases\\sentiment_analysis",
+    "\\tests"
+  ],
+  "SelectedNode": "\\apps\\RQ4\\segment_repair_updated.py",
+  "PreviewInSolutionExplorer": false
+}
