@@ -1,7 +1,8 @@
 Model-based influence analysis for RNN
 ======
 This repository contains our model-based analysis framework for the NIPS submission.
-
+Documentation contains the report and slides outlining the results. 
+The code can be used to reproduce results from the documentation.
 
 ## Usage
 ### Install
